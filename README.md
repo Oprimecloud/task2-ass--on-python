@@ -1,6 +1,6 @@
 coding with python langauge 
 
-Using only the topics that you have been taught as listed below:
+Using only the topics been taught as listed below:
 
  - input() statement
 
